@@ -1,0 +1,75 @@
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(18, 53, 203, 1) 0%, rgba(5, 201, 241, 1) 100%);
+    0%,
+    #05c9f1 100%)
+}
+
+h1 {
+    font-family: 'Freckle Face', cursive;
+    text-shadow: 2px 2px f8BBDo;
+
+}
+
+h2 {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Freckle Face', cursive;
+    font-family: 'Original Surfer', cursive;
+}
+
+h3 {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Freckle Face', cursive;
+    font-family: 'Original Surfer', cursive;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+.li_1 {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px;
+
+
+}
+
+h4 {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Freckle Face', cursive;
+    font-family: 'Original Surfer', cursive;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+h5 {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Freckle Face', cursive;
+    font-family: 'Original Surfer', cursive;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+.menu {
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    font-family: 'Freckle Face', cursive;
+
+
+}
+.link:hover{
+    color: mediumpurple;
+    text-decoration: underline;
+}
